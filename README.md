@@ -3,9 +3,9 @@
 ###Horiseon
 
 ##purpose 
-Make the website accessible.
-Clean up and organize the stylesheet.
-Label the HTML elements
+Refractoring the code to make the website more accessible
+Label the semantic HTML Elements
+Clean up and organize the stylesheet
 
 ##Built with
 
@@ -13,5 +13,6 @@ Label the HTML elements
 *CSS
 
 ##Website
-file:///C:/Users/marym/Horiseon1/index.html
+https://marymc13.github.io/Horiseon1/
+
 
